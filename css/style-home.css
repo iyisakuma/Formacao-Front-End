@@ -1,0 +1,64 @@
+body{
+    background-color: white;
+}
+header{
+    background-color: #ccc;
+}
+
+header .conteudo{
+    width: 940px;
+    margin: 0 auto;
+}
+.titulo-principal{
+    display: inline-block;
+    padding-left: 20px;
+}
+.principal{
+    background-color: #ccc;
+    padding: 30px;
+}
+p {
+   text-align: center;
+   font-size: 16px;
+}
+.titulo-centralizado{
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 24px;
+}
+#banner{
+    position: relative;
+    display: inline-block;
+    width:50%;
+
+}
+span{
+    color: red;
+    font-weight: bold;
+}
+ul .itens{
+    font-style: italic;
+    list-style-type: circle;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.beneficios{
+    background-color: white;
+    padding: 20px;
+}
+.imgbeneficios{
+    width: 50%;
+}
+
+footer{
+    padding: 10px 0px;
+    text-align: center;
+    background-image: url(../Modulo2/imagens/bg.jpg);
+}
+.copyright{
+    color: #fff;
+}
